@@ -1,0 +1,15 @@
+1
+1 1,Threthold:49,Canny:21;2,Threthold:49,Canny:21;3,Threthold:49,Canny:21;4,Threthold:49,Canny:21;5,Threthold:49,Canny:21;6,Threthold:49,Canny:21;7,Threthold:49,Canny:21;8,Threthold:49,Canny:21;9,Threthold:49,Canny:21;10,Threthold:49,Canny:21;11,Threthold:49,Canny:21;12,Threthold:49,Canny:21
+2 1,Threthold:34,Canny:21;2,Threthold:34,Canny:21;3,Threthold:34,Canny:21;4,Threthold:34,Canny:21;5,Threthold:34,Canny:21;6,Threthold:34,Canny:21;7,Threthold:34,Canny:21;8,Threthold:34,Canny:21;9,Threthold:34,Canny:21;10,Threthold:34,Canny:21;11,Threthold:34,Canny:21
+2
+1 1,Threthold:51,Canny:21;2,Threthold:51,Canny:21;3,Threthold:41,Canny:21;4,Threthold:53,Canny:21;5,Threthold:68,Canny:21;6,Threthold:49,Canny:21;7,Threthold:51,Canny:21;8,Threthold:61,Canny:21;9,Threthold:51,Canny:21;10,Threthold:61,Canny:21
+2 1,Threthold:51,Canny:21;2,Threthold:61,Canny:21
+3 1,Threthold:51,Canny:21;2,Threthold:61,Canny:21
+3
+1 1,Threthold:51,Canny:21;2,Threthold:61,Canny:21
+2 1,Threthold:51,Canny:21;2,Threthold:61,Canny:21
+4
+1 1,Threthold:61,Canny:21;2,Threthold:61,Canny:21;3,Threthold:61,Canny:21;4,Threthold:61,Canny:21;5,Threthold:61,Canny:21;6,Threthold:61,Canny:21;7,Threthold:61,Canny:21;8,Threthold:61,Canny:21;9,Threthold:61,Canny:21;10,Threthold:61,Canny:21;11,Threthold:61,Canny:21;12,Threthold:61,Canny:21
+2 1,Threthold:34,Canny:21;2,Threthold:34,Canny:21;3,Threthold:34,Canny:21;4,Threthold:34,Canny:21;5,Threthold:34,Canny:21;6,Threthold:34,Canny:21;7,Threthold:34,Canny:21;8,Threthold:34,Canny:21;9,Threthold:34,Canny:21;10,Threthold:34,Canny:21;11,Threthold:34,Canny:21
+
+

@@ -1,0 +1,26 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ReadThrethold, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ReadThrethold.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ReadThrethold.MySpecialClass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Writue(String, String, String): PrivateScope, Public, HideBySig
+    ReadValue(String, String): PrivateScope, Public, HideBySig
+    demoAdd(Int32, Int32): PrivateScope, Public, HideBySig
+    ReadText(): PrivateScope, Public, HideBySig
+    returnThrelod(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    returnCanny(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    writeTheThrelodTex(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    writeAllDataToText(): PrivateScope, Public, HideBySig
+    writeTheData(Int32, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+Struct ReadThrethold.MySpecialClass+ThreoldCanny: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Int32 theTwoNum : Public
+    Int32 theThreeNum : Public
+    Int32 Threlod : Public
+    Int32 Canny : Public
